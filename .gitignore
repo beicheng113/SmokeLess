@@ -1,0 +1,25 @@
+# Gradle / Android Studio
+.gradle/
+/local.properties
+/.idea/
+*.iml
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+.kotlin/
+
+# Local machine files
+.DS_Store
+Thumbs.db
+*.log
+*.hprof
+
+# Signing material (none is checked in)
+*.jks
+*.keystore
+signing.properties
+
+# Generated output
+app/release/
